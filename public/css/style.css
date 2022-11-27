@@ -1,0 +1,52 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+ }
+
+ html {
+    height: 100%;
+ }
+
+ body {
+    background-color: #212529;
+    min-height: 100vh;
+
+ }
+
+ .modal {
+    transition: 0.7s;
+    opacity: 20;
+
+
+ }
+
+ /* #footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:100px;	 	 
+} */
+ h3,
+ h1 {
+    color: white;
+ }
+
+ ul.pagination {
+   
+   justify-content: flex-end !important;
+   
+ }
+
+#lado{
+   float: right;
+   margin: 0 2px;
+   
+
+ }
+
+ td {
+    text-align: center;
+ }
